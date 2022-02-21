@@ -1,0 +1,517 @@
+Welcome to UMBC Media Player
+6300 media files loaded.
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+1
+Which media type do you want to display?
+music
+podcast
+music
+Which year would you like to display? (1958-2020)
+1994
+******1994*****
+3601. I'll Make Love To You by Boyz II Men
+3602. All I Wanna Do by Sheryl Crow
+3603. Secret by Madonna
+3604. Another Night by Real McCoy
+3605. Here Comes The Hotstepper (From Ready To Wear) by Ini Kamoze
+3606. Always by Bon Jovi
+3607. Never Lie by Immature
+3608. I Wanna Be Down by Brandy
+3609. Endless Love by Luther Vandross and Mariah Carey
+3610. At Your Best (You Are Love) by Aaliyah
+3611. When Can I See You by Babyface
+3612. 100% Pure Love by Crystal Waters
+3613. You Want This/70's Love Groove by Janet Jackson
+3614. Stroke You Up by Changing Faces
+3615. December 1963 (Oh, What A Night) by The 4 Seasons
+3616. I'm The Only One by Melissa Etheridge
+3617. Wild Night by John Mellencamp With Me'Shell Ndegeocello
+3618. Turn The Beat Around (From The Specialist) by Gloria Estefan
+3619. Tootsee Roll by 69 Boyz
+3620. I'll Stand By You by Pretenders
+3621. What's The Frequency, Kenneth? by R.E.M.
+3622. Thuggish Ruggish Bone by Bone Thugs-N-Harmony
+3623. Flava In Ya Ear by Craig Mack
+3624. Far Behind by Candlebox
+3625. Circle Of Life (From The Lion King) by Elton John
+3626. Stay (I Missed You) (From Reality Bites) by Lisa Loeb and Nine Stories
+3627. Juicy/Unbelievable by The Notorious B.I.G.
+3628. Living In Danger by Ace Of Base
+3629. Lucas With The Lid Off by Lucas
+3630. Practice What You Preach by Barry White
+3631. Lucky One by Amy Grant
+3632. Don't Turn Around by Ace Of Base
+3633. Fantastic Voyage by Coolio
+3634. U Will Know (From Jason's Lyric) by B.M.U. (Black Men United)
+3635. If You Go by Jon Secada
+3636. Shine by Collective Soul
+3637. Bop Gun (One Nation) by Ice Cube Featuring George Clinton
+3638. None Of Your Business by Salt-N-Pepa
+3639. Can You Feel The Love Tonight (From The Lion King) by Elton John
+3640. New Age Girl (From Dumb And Dumber) by Deadeye Dick
+3641. I Belong To You/How Many Ways by Toni Braxton
+3642. Playaz Club by Rappin' 4-Tay
+3643. Get Over It by Eagles
+3644. This D.J. by Warren G
+3645. Come To My Window by Melissa Etheridge
+3646. Sukiyaki by 4PM
+3647. I Swear by All-4-One
+3648. Fa All Y'all by Da Brat
+3649. Something's Always Wrong by Toad The Wet Sprocket
+3650. Closer by Nine Inch Nails
+3651. Fade Into You by Mazzy Star
+3652. Body and Soul by Anita Baker
+3653. You Gotta Be by Des'ree
+3654. Do You Wanna Get Funky by C+C Music Factory
+3655. Short Dick Man by 20 Fingers Featuring Gillette
+3656. Love Is All Around by Wet Wet Wet
+3657. Undone - The Sweater Song by Weezer
+3658. The Most Beautifullest Thing In This World by Keith Murray
+3659. But It's Alright by Huey Lewis and The News
+3660. Action by Terror Fabulous Featuring Nadine Sutherland
+3661. Can U Get Wit It by Usher
+3662. I'd Give Anything by Gerald Levert
+3663. When We Dance by Sting
+3664. Before I Let You Go by BLACKstreet
+3665. I'll Take Her by Ill Al Skratch Featuring Brian McKnight
+3666. Out Of Tears by The Rolling Stones
+3667. Hold My Hand by Hootie and The Blowfish
+3668. Letitgo by Prince
+3669. Get Up On It by Keith Sweat (Featuring Kut Klose)
+3670. Black Coffee by Heavy D and The Boyz
+3671. Nuttin' But Love by Heavy D and The Boyz
+3672. Breakdown by Fu-Schnickens
+3673. Hip Hop Ride by Da Youngsta's
+3674. (I Could Only) Whisper Your Name by Harry Connick, Jr.
+3675. Dance Naked by John Mellencamp
+3676. 5-4-3-2 (Yo! Time Is Up) by Jade
+3677. Good Enough by Sarah McLachlan
+3678. Romantic Call by Patra Featuring Yo-Yo
+3679. Right Beside You by Sophie B. Hawkins
+3680. The Way She Loves Me by Richard Marx
+3681. Watermelon Crawl by Tracy Byrd
+3682. Be Happy by Mary J. Blige
+3683. Always In My Heart by Tevin Campbell
+3684. 9th Wonder (Slicker This Year) by Digable Planets
+3685. Get Ready For This by 2 Unlimited
+3686. Take It Easy by Mad Lion
+3687. Supernova by Liz Phair
+3688. Booti Call by BLACKstreet
+3689. Tic Toc by Lords Of The Underground
+3690. Shut Up And Kiss Me by Mary Chapin Carpenter
+3691. The Lion Sleeps Tonight (Wimoweh) by The Tokens
+3692. I See It Now by Tracy Lawrence
+3693. You Don't Know Nothin' by For Real
+3694. Whipped by Jon Secada
+3695. Hit By Love by CeCe Peniston
+3696. Am I Wrong by Love Spit Love
+3697. Through The Rain by Tanya Blount
+3698. Hungah by Karyn White
+3699. Third Rock From The Sun by Joe Diffie
+3700. Word Is Bond by Brand Nubian
+100 media found.
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+The playlist is currently empty
+Choose the media you would like to add to the playlist.
+2
+Which media type do you want to display?
+music
+podcast
+music
+Which year would you like to display? (1958-2020)
+1968
+******1968*****
+1001. Hey Jude by The Beatles
+1002. Those Were The Days by Mary Hopkin
+1003. Little Green Apples by O.C. Smith
+1004. Fire by The Crazy World Of Arthur Brown
+1005. Midnight Confessions by The Grass Roots
+1006. Elenore by The Turtles
+1007. Over You by Gary Puckett And The Union Gap
+1008. Hold Me Tight by Johnny Nash
+1009. Love Child by Diana Ross and The Supremes
+1010. White Room by Cream
+1011. Suzie Q. (Part One) by Creedence Clearwater Revival
+1012. Magic Carpet Ride by Steppenwolf
+1013. Piece Of My Heart by Big Brother And The Holding Company
+1014. Harper Valley P.T.A. by Jeannie C. Riley
+1015. Girl Watcher by The O'Kaysions
+1016. I've Gotta Get A Message To You by Bee Gees
+1017. My Special Angel by The Vogues
+1018. Hey, Western Union Man by Jerry Butler
+1019. Revolution by The Beatles
+1020. Say It Loud - I'm Black And I'm Proud (Part 1) by James Brown
+1021. Sweet Blindness by The 5th Dimension
+1022. Shape Of Things To Come by Max Frost And The Troopers
+1023. Fool For You by The Impressions
+1024. Time Has Come Today by The Chambers Brothers
+1025. All Along The Watchtower by The Jimi Hendrix Experience
+1026. Court Of Love by The Unifics
+1027. Hi-Heel Sneakers by Jose Feliciano
+1028. Bang-Shang-A-Lang by The Archies
+1029. Who's Making Love by Johnnie Taylor
+1030. In-A-Gadda-Da-Vida by Iron Butterfly
+1031. Shoot'em Up, Baby by Andy Kim
+1032. Chained by Marvin Gaye
+1033. Lalena by Donovan
+1034. Keep On Lovin' Me Honey by Marvin Gaye and Tammi Terrell
+1035. Abraham, Martin And John by Dion
+1036. Chewy Chewy by Ohio Express
+1037. Always Together by The Dells
+1038. Take Me For A Little While by Vanilla Fudge
+1039. Gentle On My Mind by Glen Campbell
+1040. Baby, Come Back by The Equals
+1041. Quick Joey Small (Run Joey Run) by Kasenetz-Katz Singing Orchestral Circus
+1042. I Found A True Love by Wilson Pickett
+1043. Cycles by Frank Sinatra
+1044. Do The Choo Choo by Archie Bell and The Drells
+1045. Break Your Promise by The Delfonics
+1046. Les Bicyclettes De Belsize by Engelbert Humperdinck
+1047. The Funky Judge by Bull and The Matadors
+1048. Naturally Stoned by The Avant-Garde
+1049. I've Got Dreams To Remember by Otis Redding
+1050. Bring It On Home To Me by Eddie Floyd
+1051. I'm In A Different World by Four Tops
+1052. 1432 Franklin Pike Circle Hero by Bobby Russell
+1053. Battle Hymn Of The Republic by Andy Williams with the St. Charles Borromeo Choir
+1054. The Straight Life by Bobby Goldsboro
+1055. Peace Of Mind by Nancy Wilson
+1056. Pickin' Wild Mountain Berries by Peggy Scott and Jo Jo Benson
+1057. Little Arrows by Leapy Lee
+1058. Cinderella Sunshine by Paul Revere and The Raiders Featuring Mark Lindsay
+1059. Do Something To Me by Tommy James And The Shondells
+1060. Cinnamon by Derek
+1061. Ride My See-Saw by The Moody Blues
+1062. Porpoise Song by The Monkees
+1063. I Love You Madly by Fantastic Four
+1064. I Love How You Love Me by Bobby Vinton
+1065. From The Teacher To The Preacher by Gene Chandler and Barbara Acklin
+1066. Promises, Promises by Dionne Warwick
+1067. Stormy by Classics IV Featuring Dennis Yost
+1068. Destination: Anywhere by The Marvelettes
+1069. Smell Of Incense by Southwest F.O.B.
+1070. Fly Me To The Moon by Bobby Womack
+1071. Shake by Shadows Of Knight
+1072. Goody Goody Gumdrops by 1910 Fruitgum Co.
+1073. Alfie by Eivets Rednow
+1074. Shame, Shame by Magic Lanterns
+1075. Wichita Lineman by Glen Campbell
+1076. Peace Brother Peace by Bill Medley
+1077. A Little Less Conversation by Elvis Presley With The Jordanaires
+1078. Harper Valley P.T.A. (Later That Same Day) by Ben Colder
+1079. For Once In My Life by Stevie Wonder
+1080. For Once In My Life by Jackie Wilson
+1081. Everybody Got To Believe In Somebody by Sam and Dave
+1082. You Put It On Me by B.B. King
+1083. Do What You Gotta Do by Nina Simone
+1084. Mornin' Glory by Bobbie Gentry and Glen Campbell
+1085. Soul Drippin' by The Mauds
+1086. Sweet Darlin' by Martha Reeves and The Vandellas
+1087. Fire by Five By Five
+1088. It's Crazy by Eddie Harris
+1089. The Star-Spangled Banner by Jose Feliciano
+1090. I Walk Alone by Marty Robbins
+1091. Crown Of Creation by Jefferson Airplane
+1092. Billy You're My Friend by Gene Pitney
+1093. Not Enough Indians by Dean Martin
+1094. Aunt Dora's Love Soul Shack by Arthur Conley
+1095. California Earthquake by Mama Cass
+1096. Talking About My Baby by Gloria Walker
+1097. The Yard Went On Forever by Richard Harris
+1098. Jesse Brady by The McCoys
+1099. Do Your Own Thing by Brook Benton
+1100. Come On, React! by The Fireballs
+100 media found.
+Enter the number of the media you would like to add:
+1001
+Hey Jude by The Beatles added to the playlist
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+1. Hey Jude by The Beatles from 1968
+Choose the media you would like to add to the playlist.
+2
+Which media type do you want to display?
+music
+podcast
+music
+Which year would you like to display? (1958-2020)
+1988
+******1988*****
+3001. Kokomo (FromCocktail ) by The Beach Boys
+3002. Wild, Wild West by The Escape Club
+3003. Groovy Kind Of Love by Phil Collins
+3004. The Loco-Motion by Kylie Minogue
+3005. Bad Medicine by Bon Jovi
+3006. One Moment In Time by Whitney Houston
+3007. Never Tear Us Apart by INXS
+3008. Desire by U2
+3009. Red Red Wine by UB40
+3010. What's On Your Mind (Pure Energy) by Information Society
+3011. Don't You Know What The Night Can Do? by Steve Winwood
+3012. How Can I Fall? by Breathe
+3013. Baby, I Love Your Way/Freebird Medley by Will To Power
+3014. Chains Of Love by Erasure
+3015. Kissing A Fool by George Michael
+3016. Another Lover by Giant Steps
+3017. Look Away by Chicago
+3018. Don't Know What You Got (Till It's Gone) by Cinderella
+3019. Don't Be Cruel by Bobby Brown
+3020. I Don't Want Your Love by Duran Duran
+3021. Love Bites by Def Leppard
+3022. Giving You The Best That I Got by Anita Baker
+3023. Waiting For A Star To Fall by Boy Meets Girl
+3024. A Word In Spanish by Elton John
+3025. Forever Young by Rod Stewart
+3026. Walk On Water by Eddie Money
+3027. The Promise by When In Rome
+3028. Don't Be Cruel by Cheap Trick
+3029. Don't Worry, Be Happy (From Cocktail) by Bobby McFerrin
+3030. Edge Of A Broken Heart by Vixen
+3031. Downtown Life by Daryl Hall John Oates
+3032. Domino Dancing by Pet Shop Boys
+3033. Welcome To The Jungle by Guns N' Roses
+3034. Dance Little Sister by Terence Trent D'Arby
+3035. Finish What Ya Started by Van Halen
+3036. True Love by Glenn Frey
+3037. Small World by Huey Lewis and The News
+3038. Time And Tide by Basia
+3039. I'll Always Love You by Taylor Dayne
+3040. Spy In The House Of Love by Was (Not Was)
+3041. In Your Room by The Bangles
+3042. Every Rose Has Its Thorn by Poison
+3043. Till I Loved You by Barbra Streisand and Don Johnson
+3044. Please Don't Go Girl by New Kids On The Block
+3045. My Prerogative by Bobby Brown
+3046. It Takes Two by Rob Base and D.J. E-Z Rock
+3047. Not Just Another Girl by Ivan Neville
+3048. Early In The Morning by Robert Palmer
+3049. Symptoms Of True Love by Tracie Spencer
+3050. Any Love by Luther Vandross
+3051. Boy, I've Been Told by SaFire
+3052. I Hate Myself For Loving You by Joan Jett and the Blackhearts
+3053. One Good Woman by Peter Cetera
+3054. Sweet Child O' Mine by Guns N' Roses
+3055. Yeah, Yeah, Yeah by Judson Spence
+3056. Cars With The Boom by L'Trimm
+3057. You Came by Kim Wilde
+3058. I Remember Holding You by Boys Club
+3059. Never Let You Go by Sweet Sensation
+3060. Silhouette by Kenny G
+3061. The Way You Love Me by Karyn White
+3062. Didn't Know It Was Love by Survivor
+3063. If It Isn't Love by New Edition
+3064. Little Liar by Joan Jett and the Blackhearts
+3065. Hippy Hippy Shake (From Cocktail) by The Georgia Satellites
+3066. Handle With Care by Traveling Wilburys
+3067. Thanks For My Child by Cheryl Pepsii Riley
+3068. I Can't Wait by Deniece Williams
+3069. Dancing Under A Latin Moon by Candi
+3070. Rock and Roll Strategy by Thirty Eight Special
+3071. Peek-A-Boo by Siouxsie and The Banshees
+3072. Simply Irresistible by Robert Palmer
+3073. Best Of Times by Peter Cetera
+3074. Don't Break My Heart by Romeo's Daughter
+3075. Strangelove by Depeche Mode
+3076. Put This Love To The Test by Jon Astley
+3077. Fallen Angel by Poison
+3078. Wild World by Maxi Priest
+3079. Girls Ain't Nothing But Trouble by D.J. Jazzy Jeff and The Fresh Prince
+3080. A Nightmare On My Street by D.J. Jazzy Jeff and The Fresh Prince
+3081. Don't Rush Me by Taylor Dayne
+3082. Forever Young by Alphaville
+3083. Ghost Town by Cheap Trick
+3084. Baby Can I Hold You by Tracy Chapman
+3085. It's Money That Matters by Randy Newman
+3086. Got A New Love by Good Question
+3087. Way Out by J.J. Fad
+3088. Spring Love (Come Back To Me) by Stevie B
+3089. You Make Me Work by Cameo
+3090. All This Time by Tiffany
+3091. Jealous Guy by John Lennon and The Plastic Ono Band
+3092. When The Children Cry by White Lion
+3093. When It's Love by Van Halen
+3094. I'm Not Your Man by Tommy Conwell And The Young Rumblers
+3095. Superstitious by Europe
+3096. Put A Little Love In Your Heart by Annie Lennox and Al Green
+3097. I Believe In You by Stryper
+3098. Nobody's Perfect by Mike + The Mechanics
+3099. The Lover In Me by Sheena Easton
+3100. Nobody's Fool (Theme From Caddyshack II) by Kenny Loggins
+100 media found.
+Enter the number of the media you would like to add:
+3054
+Sweet Child O' Mine by Guns N' Roses added to the playlist
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Hey Jude by The Beatles from 1968
+2. Sweet Child O' Mine by Guns N' Roses from 1988
+2
+Choose the media you would like to add to the playlist.
+Which media type do you want to display?
+music
+podcast
+music
+Which year would you like to display? (1958-2020)
+1976
+******1976*****
+1801. Rock'n Me by Steve Miller
+1802. Disco Duck (Part I) by Rick Dees and His Cast Of Idiots
+1803. The Wreck Of The Edmund Fitzgerald by Gordon Lightfoot
+1804. If You Leave Me Now by Chicago
+1805. Love So Right by Bee Gees
+1806. Muskrat Love by Captain and Tennille
+1807. She's Gone by Daryl Hall John Oates
+1808. Tonight's The Night (Gonna Be Alright) by Rod Stewart
+1809. Magic Man by Heart
+1810. Just To Be Close To You by Commodores
+1811. Do You Feel Like We Do by Peter Frampton
+1812. (Don't Fear) The Reaper by Blue Oyster Cult
+1813. Beth/Detroit Rock City by KISS
+1814. Nadia's Theme (The Young And The Restless) by Barry DeVorzon and Perry Botkin, Jr.
+1815. The Rubberband Man by The Spinners
+1816. Fernando by ABBA
+1817. More Than A Feeling by Boston
+1818. You Are The Woman by Firefall
+1819. A Fifth Of Beethoven by Walter Murphy and The Big Apple Band
+1820. Play That Funky Music by Wild Cherry
+1821. The Best Disco In Town by The Ritchie Family
+1822. I Only Want To Be With You by Bay City Rollers
+1823. (Shake, Shake, Shake) Shake Your Booty by KC And The Sunshine Band
+1824. Nights Are Forever Without You by England Dan and John Ford Coley
+1825. That'll Be The Day by Linda Ronstadt
+1826. A Dose Of Rock 'N' Roll by Ringo Starr
+1827. You Are My Starship by Norman Connors
+1828. I Never Cry by Alice Cooper
+1829. This One's For You by Barry Manilow
+1830. Did You Boogie (With Your Baby) by Flash Cadillac And The Continental Kids
+1831. You Don't Have To Be A Star (To Be In My Show) by Marilyn McCoo and Billy Davis, Jr.
+1832. Nice 'N' Naasty by The Salsoul Orchestra
+1833. Lowdown by Boz Scaggs
+1834. You Make Me Feel Like Dancing by Leo Sayer
+1835. Stand Tall by Burton Cummings
+1836. Love Ballad by L.T.D.
+1837. Anything You Want by John Valenti
+1838. Love Me by Yvonne Elliman
+1839. It's A Long Way There by Little River Band
+1840. Give It Up (turn It Loose) by Tyrone Davis
+1841. Hello Old Friend by Eric Clapton
+1842. The End Is Not In Sight (the Cowboy Tune) by Amazing Rhythm Aces
+1843. Still The One by Orleans
+1844. Hot Line by The Sylvers
+1845. It's Only Love by ZZ Top
+1846. Livin' Thing by Electric Light Orchestra
+1847. So Sad The Song by Gladys Knight And The Pips
+1848. I Can't Live A Dream by The Osmonds
+1849. My Sweet Summer Suite by Love Unlimited Orchestra
+1850. After The Lovin' by Engelbert Humperdinck
+1851. Devil Woman by Cliff Richard
+1852. A Little Bit More by Dr. Hook
+1853. Jeans On by David Dundas
+1854. Getaway by Earth, Wind and Fire
+1855. I'd Really Love To See You Tonight by England Dan and John Ford Coley
+1856. With Your Love by Jefferson Starship
+1857. Mr. Melody by Natalie Cole
+1858. Get The Funk Out Ma Face by The Brothers Johnson
+1859. You Should Be Dancing by Bee Gees
+1860. Whenever I'm Away From You by John Travolta
+1861. Let's Be Young Tonight by Jermaine Jackson
+1862. Shake Your Rump To The Funk by The Bar-Kays
+1863. Daylight by Vicki Sue Robinson
+1864. Groovy People by Lou Rawls
+1865. Do What You Want, Be What You Are by Daryl Hall John Oates
+1866. Don't Go Breaking My Heart by Elton John and Kiki Dee
+1867. Breezin' by George Benson
+1868. Dazz by Brick
+1869. I Kinda Miss You by The Manhattans
+1870. Don't Take Away The Music by Tavares
+1871. You Ought To Be Havin' Fun by Tower Of Power
+1872. Keep Me Cryin' by Al Green
+1873. Lets Get It Together by El Coco
+1874. If I Only Could by The Rowans
+1875. Living It Down by Freddy Fender
+1876. Every Face Tells A Story by Olivia Newton-John
+1877. Cowboy Song by Thin Lizzy
+1878. I Don't Wanna Lose Your Love by The Emotions
+1879. Car Wash by Rose Royce
+1880. Catfish by Four Tops
+1881. Let Me Down Easy by American Flyer
+1882. Down To Love Town by The Originals
+1883. (one More Year Of) Daddy's Little Girl by Ray Sawyer
+1884. Baby Boy by Mary Kay Place As Loretta Haggers
+1885. Wham Bam (Shang-A-Lang) by Silver
+1886. Help Wanted by The Hudson Brothers
+1887. Someday (I Didn't Want To Have to be the One) by Henry Gross
+1888. Don't Fight The Hands (That Need You) by Hamilton, Joe Frank and Dennison
+1889. I Like Dreamin' by Kenny Nolan
+1890. Things by Anne Murray
+1891. The Raven by The Alan Parsons Project
+1892. Full Time Thing (Between Dusk And Dawn) by Whirlwind
+1893. Slow Dancing by Funky Kings
+1894. Peter Gunn by Deodato
+1895. Open Sesame - Part 1 by Kool and The Gang
+1896. Cathedrals by D.C. LaRue
+1897. Makes You Blind by The Glitter Band
+1898. Whispering/Cherchez La Femme/Se Si Bon by Dr. Buzzard's Original Savannah Band
+1899. Say You Love Me by Fleetwood Mac
+1900. Message In Our Music by The O'Jays
+100 media found.
+Enter the number of the media you would like to add:
+1807
+She's Gone by Daryl Hall John Oates added to the playlist
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Hey Jude by The Beatles from 1968
+2. Sweet Child O' Mine by Guns N' Roses from 1988
+3. She's Gone by Daryl Hall John Oates from 1976
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+4
+Done sorting by year
+3 items sorted.
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Hey Jude by The Beatles from 1968
+2. She's Gone by Daryl Hall John Oates from 1976
+3. Sweet Child O' Mine by Guns N' Roses from 1988
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+5
+Thank you for using the UMBC Media Player

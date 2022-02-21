@@ -1,0 +1,74 @@
+Welcome to UMBC Media Player
+6300 media files loaded.
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+0
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+10
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+The playlist is currently empty
+2
+Choose the media you would like to add to the playlist.
+Which media type do you want to display?
+music
+podcast
+podcast
+Which year would you like to display? (1958-2020)
+******2015*****
+No media found with those criteria
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+The playlist is currently empty
+2
+Choose the media you would like to add to the playlist.
+Which media type do you want to display?
+music
+podcast
+music
+Which year would you like to display? (1958-2020)
+******2020*****
+No media found with those criteria
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+The playlist is currently empty
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+4
+The playlist is currently empty
+What would you like to do?
+1. Display Media by Type and Year
+2. Add Media to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+5
+Thank you for using the UMBC Media Player
