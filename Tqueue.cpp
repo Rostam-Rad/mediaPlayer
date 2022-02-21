@@ -1,9 +1,7 @@
 /*****************************************
 ** File:    Tqueue.cpp
-** Project: CMSC 202 project 5, Fall 2020
 ** Author:  Rostam Boroumand Rad
 ** Date:    12/7/20
-** Section: 20/23
 ** E-mail:  r66@umbc.edu
 ** Description: This program is a template class that allows the user to queue, dequeue, and sort a list.
 **
