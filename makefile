@@ -21,6 +21,3 @@ run1:
 
 val1:
 	valgrind ./proj5 proj5_media.txt
-
-
-
