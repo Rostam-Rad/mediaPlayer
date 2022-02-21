@@ -1,12 +1,10 @@
 
 /*****************************************
 ** File:    Media.cpp
-** Project: CMSC 202 project 5, Fall 2020
 ** Author:  Rostam Boroumand Rad
 ** Date:    12/7/20
-** Section: 20/23
 ** E-mail:  r66@umbc.edu
-** Description: This program holds the function definitions for Media.h for project 5
+** Description: This program holds the function definitions for Media.h
 **
 ***********************************************/
 
